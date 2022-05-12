@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("master 5th commit");
         System.out.println("hot-fix 1st");
         System.out.println("512,morning");
+        System.out.println("i want eat");
     }
 }
