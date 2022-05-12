@@ -7,5 +7,6 @@ package com.beef.git;
 public class GitTest2 {
     public static void main(String[] args) {
         System.out.println("gittest222");
+        System.out.println("刘鑫大猪头");
     }
 }
